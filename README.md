@@ -1,8 +1,8 @@
-### Hi there <i class="fas fa-coffee"></i><i class="fas fa-smile"></i>
+### Hi there 🐻
 ![info](https://github-readme-stats.vercel.app/api?username=liuhouer&show_icons=true&count_private=true&theme=default_repocard&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuhouer&text_color=151515&bg_color=fefefe&layout=compact)](https://github.com/liuhouer)
 
-
+**About me**
 - ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)
 - 🔭 I'm currently working as a `java technology manager`
 - 🌱 I’m currently learning `big data system`
