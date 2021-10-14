@@ -1,10 +1,8 @@
 ### Hi there 👋
-![info](https://github-readme-stats.vercel.app/api?username=liuhouer&show_icons=true&hide=prs&count_private=true&theme=default_repocard&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuhouer&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/liuhouer)
+![info](https://github-readme-stats.vercel.app/api?username=liuhouer&show_icons=true&count_private=true&theme=default_repocard&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuhouer&text_color=151515&bg_color=fefefe)](https://github.com/liuhouer)
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=liuhouer" id="counter">
-</p>
+
 
 - 🔭 I'm currently working as a java technology manager 
 - 🌱 I’m currently learning big data `system`
