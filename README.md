@@ -4,7 +4,7 @@
 
 **About me**
 - ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)
-- 🔭 I'm currently working as a `java technology manager`
+- 🔭 I'm currently working as a `java technology manager in a central enterprise`
 - 🌱 I’m currently learning `big data system`
 - 📫 How to reach me: `telegram:@liuhouer`
 
