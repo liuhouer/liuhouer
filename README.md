@@ -1,6 +1,5 @@
 ### Hi there 🐻
-![info](https://github-readme-stats.vercel.app/api?username=liuhouer&show_icons=true&count_private=true&theme=default_repocard&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuhouer&text_color=151515&bg_color=fefefe&layout=compact)](https://github.com/liuhouer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+liuhouer+Welcome+!)
 
 **About me**
 - ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)
