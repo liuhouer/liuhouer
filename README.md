@@ -1,8 +1,14 @@
-### Hi there 🐻
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+liuhouer+Welcome+!)
+### Hi there🐻
+
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+liuhouer+Welcome+!)
+
+<img  src="assests/borderseperator.gif">
 
 **About me**
-- ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)
+
+- ⚡  Personal WebSite: <a href="https://northpark.cn"> <img align='right' src="https://s1.ax1x.com/2023/03/17/pp8XE4I.png" width="350" alt="NorthPark中文网" />
 - 🔭 I'm currently working as a `java technology manager in a central enterprise`
 - 🌱 I’m currently learning `big data system`
 <!-- 
