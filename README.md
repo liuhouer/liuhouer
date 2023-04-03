@@ -8,7 +8,7 @@
 
 **About me**
 
-- ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)       <img align='right' src="https://s1.ax1x.com/2023/03/17/ppGF83Q.png" width="350" alt="NorthPark中文网" />
+- ⚡  Personal WebSite: [NorthPark中文网](https://northpark.cn)
 
 - 🔭 I'm currently working as a `tech manager in a central enterprise`
 
